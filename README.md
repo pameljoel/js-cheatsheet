@@ -1,3 +1,6 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/200e32ff-8302-4360-8173-c3ad4137be35/deploy-status)](https://app.netlify.com/sites/js-cheatsheet/deploys)
+
+
 # gatsby-contentful-starter
 
 Gatsby [Contentful](https://www.contentful.com) starter for creating a blog
